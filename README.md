@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Andreea Lazea!
+## Hi there 🌞 I'm Andreea!
 
-Welcome to my GitHub profile! I'm a budding software developer currently specializing in secure software solutions and exploring the vast landscape of cloud technologies.
+Welcome to my GitHub profile! I'm a software developer currently specializing in secure software solutions and exploring the vast landscape of cloud technologies.
 
-### 🌱 I’m currently learning:
+### 📖📚 I’m currently learning:
 - Advanced frameworks like **Spring** and **Spring Boot** to enhance my backend development skills.
 - Essential version control systems like **Git** to manage and streamline my development process.
 - Cloud platforms, with a focus on **Amazon Web Services (AWS)**, to build scalable and robust applications.
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a budding software developer currently special
 - Open source projects involving **Java**, **Python**, or **JavaScript**.
 - Innovative projects that leverage **cloud computing** technologies to solve real-world problems.
 
-### 🤔 I’m looking for:
+### 🔎 I’m looking for:
 - New job opportunities where I can contribute to challenging projects and further develop my technical skills.
 
 ### 💬 Ask me about:
