@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a software developer currently specializing in
 - Applied Computational Intelligence during my masters
 
 ### 🔭 Last job attributes:
-- Cryptographic solutions for a UK-based bank at **Eviden (Atos)**, focusing on security and data integrity.
+- Cryptographic solutions for a UK-based bank at **Eviden (Atos)**
 - Various personal projects including a social media back-end in different languages and a Solar System immersive simulation.
 
 ### 👯 I’m looking to collaborate on:
